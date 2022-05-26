@@ -1,4 +1,4 @@
-# The List of Block IP For SSH
+# The List of Block IP
 
 ## Before the Start
 
